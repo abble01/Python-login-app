@@ -14,4 +14,4 @@ My second attempt at simple Python login system, with basic password encryption 
  - JSON for data storage and recall
  - Basic encryption algorithm
 
-Can be ran **downloading this repository** or **cloning it**, and running the `main.py` file, ensure **Python 3** is installed.
+Can be ran **downloading this repository** or **cloning it**, and then running the `main.py` file, ensure **Python 3** is installed.
