@@ -9,9 +9,9 @@ My second attempt at simple Python login system, with basic password encryption 
 - error messages for invalid login attempts or weak passwords
 
 ## Tools i used
- - python3
+ - Python 3
  - Tkinter for the GUI
-  - JSON for data storage and recall
-  - Basic encryption algorithm
+ - JSON for data storage and recall
+ - Basic encryption algorithm
 
 Can be ran **downloading this repository** or **cloning it**, and running the `main.py` file, ensure **Python 3** is installed.
