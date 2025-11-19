@@ -55,7 +55,7 @@ else:
 # GUI
 root = tk.Tk()
 root.geometry("500x500")
-root.title("Hello World")
+root.title("Login Page Project")
 
 def clear_save():
     try:
@@ -185,3 +185,4 @@ wipe_button.place(x=10,y=460)
 
 
 root.mainloop()
+
